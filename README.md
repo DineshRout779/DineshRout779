@@ -11,7 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/dineshrout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/codepen.svg" alt="dineshrout" height="30" width="40" /></a>
+1. [Twitter](https://twitter.com/DineshRout779)
+2. [Instagram](https://www.instagram.com/dinesh_rout_/)
+3. [codepen](https://codepen.io/your-work)
+4. [LinkedIn](https://www.linkedin.com/in/dinesh-rout-a36306179/)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
