@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [BlogApp](https://github.com/DineshRout779/BlogApp)
 
+- ⚒ I'm currently looking for part time frontend internship/job.
+
 - 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://dineshrout.netlify.app/](https://dineshrout.netlify.app/)
