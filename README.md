@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Dinesh Rout</h1>
 <h3>A passionate frontend developer from India.</h3>
 
-- 🔭 I’m currently working on [BlogApp](https://github.com/DineshRout779/BlogApp)
+- 🔭 I’m currently working on [Postline](https://github.com/DineshRout779/postline)
 
 - ⚒ I'm currently looking for part time frontend internship/job.
 
