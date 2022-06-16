@@ -9,7 +9,12 @@ I've been learning web development for 3 years. I'm currently doing internship a
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [rddinesh779@gmail.com](mailto:rddinesh779@gmail.com)
 *   🧠  I'm learning TypeScript
-*   🤝  I'm open to collaborating on Projects### Skills<p align="left">
+*   🤝  I'm open to collaborating on Projects
+
+
+### Skills
+
+<p align="left">
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -29,20 +34,18 @@ I've been learning web development for 3 years. I'm currently doing internship a
                                 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
                     </p>
                     
-                  ### Socials
+ ### Socials
                   
                   
-                <p align="left">
-                          
+<p align="left">
                       <a href="https://www.dev.to/dineshrout779" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://discord.com/users/DineshRout#1175" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/DineshRout779" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-                          
+                      <a href="https://discord.com/users/DineshRout#1175" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>    
+                      <a href="https://www.github.com/DineshRout779" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>  
                       <a href="https://coderdinesh.hashnode.dev.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/dinesh-rout-a36306179" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/DineshRout779" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/DineshRout779"><img src="https://github-readme-stats.vercel.app/api?username=DineshRout779&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="DineshRout779's GitHub stats" /></a>
+                      <a href="https://www.linkedin.com/in/dinesh-rout-a36306179" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>     
+                      <a href="https://www.twitter.com/DineshRout779" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+                      
+###  Badges
+<p><b>My GitHub Stats</b></p>
+<a href="http://www.github.com/DineshRout779"><img src="https://github-readme-stats.vercel.app/api?username=DineshRout779&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="DineshRout779's GitHub stats" /></a>
+</p>
