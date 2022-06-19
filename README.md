@@ -1,4 +1,4 @@
-Hi 👋 My name is Dinesh Rout
+Hi 👋 I'm Dinesh Rout
 ============================
 
 Frontend Web Developer
