@@ -1,10 +1,7 @@
-Hi 👋 I'm Dinesh Rout
+Hi there 👋 I'm Dinesh Rout!
 ============================
 
-Frontend Web Developer
-----------------------
-
-I've been learning web development for 3 years. I'm currently doing internship at CryptoNaukri
+I've been learning web development and building projects in same for 3 years. I'm currently doing my masters. 
 
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [rddinesh779@gmail.com](mailto:rddinesh779@gmail.com)
