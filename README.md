@@ -1,13 +1,13 @@
-Hi there 👋 I'm Dinesh Rout!
+Hi there, I'm Dinesh Rout <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px">
 ============================
 
-I've been learning web development and building projects in same for 3 years. I'm currently doing my masters. 
+I'm Dinesh, a passionate Frontend Developer based in India. I interned at [Cryptonaukri](https://www.cryptonaukri.com/)  where I built a QnA forum for blockchain developers using React and TailwindCSS. 
 
-*   🌍  I'm based in India
-*   ✉️  You can contact me at [rddinesh779@gmail.com](mailto:rddinesh779@gmail.com)
-*   🧠  I'm learning TypeScript
-*   🤝  I'm open to collaborating on Projects
-
+*   📖  Learning and Improving everyday 
+*   ✉️  You can contact me at [rddinesh779@gmail.com](mailto:rddinesh779@gmail.com)
+*   🧠  I'm learning TypeScript
+*   🤝  I'm open to collaborating on Projects
+*   👀  I'm currently looking for internships 
 
 ### Skills
 
