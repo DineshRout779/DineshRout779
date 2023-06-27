@@ -1,11 +1,14 @@
 Hi there, I'm Dinesh Rout <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px">
 ============================
 
+<p align="left"> <a href="https://twitter.com/DineshRout779" target="blank"><img src="https://img.shields.io/twitter/follow/DineshRout779?logo=twitter&style=for-the-badge" alt="DineshRout779" /></a> </p>
+
 I'm Dinesh, a passionate Frontend Developer based in India. I interned at [Cryptonaukri](https://www.cryptonaukri.com/)  where I built a QnA forum for blockchain developers using React and TailwindCSS. 
 
-*   📖  Learning and Improving everyday 
+*   📖  Learning and improving everyday
+*   ⚒   All my projects can be found can be found on my [portfolio](https://dineshrout.netlify.app/)
 *   ✉️  You can contact me at [rddinesh779@gmail.com](mailto:rddinesh779@gmail.com)
-*   🧠  I'm learning TypeScript
+*   🧠  I'm learning TypeScript and Next.js
 *   🤝  I'm open to collaborating on Projects
 *   👀  I'm currently looking for internships 
 
