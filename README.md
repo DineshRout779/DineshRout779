@@ -1,6 +1,8 @@
 Hi there, I'm Dinesh Rout <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px">
 ============================
 
+![](https://komarev.com/ghpvc/?username=DineshRout779&blueviolet)
+
 <p align="left"> <a href="https://twitter.com/DineshRout779" target="blank"><img src="https://img.shields.io/twitter/follow/DineshRout779?logo=twitter&style=for-the-badge" alt="DineshRout779" /></a> </p>
 
 I'm Dinesh, a passionate Frontend Developer based in India. I interned at [Cryptonaukri](https://www.cryptonaukri.com/)  where I built a QnA forum for blockchain developers using React and TailwindCSS. 
